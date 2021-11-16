@@ -1,0 +1,40 @@
+*{
+    font-style: normal;
+    color: white;
+}
+.shopNow{
+    color: #fe9126; 
+    font-weight: 500;
+}
+.navLink{
+    font-weight: 500;
+}
+.cart{
+    font-size: 24px;    
+}
+.orderOnline{
+    color: black;
+}
+.brandName{
+    font-weight: 700;
+    color: #fe9126; 
+    font-size: 26px;
+}
+.thirdBar{
+    background-color: #fe9126; 
+}
+#collasible-nav-dropdown{
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    float: left;
+    margin-left: 17px;
+}
+.thirdNavLink{
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    float: left;
+    margin-left: 17px;
+}
+

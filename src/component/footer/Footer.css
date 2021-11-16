@@ -1,0 +1,12 @@
+.hov{
+    transition:color 1s;
+}
+.hov:hover{color: #fe9126;}
+
+.foot{
+    margin-left: 15px;
+}
+.txtalign{
+    text-align: justify;
+    margin-left: 4px;
+}

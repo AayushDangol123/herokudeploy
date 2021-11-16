@@ -1,0 +1,16 @@
+.contac{
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: rgba(60, 114, 177, 0.795);
+    margin-top: 50px;
+}
+.loginform{
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin-left: 41%;
+    margin-bottom: 200px;
+    margin-top: 30px;
+    height: 100px;
+}
