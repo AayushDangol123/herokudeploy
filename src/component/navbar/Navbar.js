@@ -32,7 +32,7 @@ function NavBar() {
                 </Nav.Link>
               </Nav>
               <Nav className="me-auto">
-                <Nav.Link>
+                <Nav.Link href="/Register">
                   <i className="navLink">Create Account</i>
                 </Nav.Link>
                 <Nav.Link href="/Login">

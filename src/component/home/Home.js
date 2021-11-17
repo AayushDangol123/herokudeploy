@@ -5,7 +5,7 @@ import SecondCaro from '../../utils/secondCarousel/SecondCaro';
 import Boxs from "../../utils/tabs/Tabs"
 const Home = () => {
     return (
-        <main>      
+        <main>     
             <Carousel/>  
            <h1 className="home">TOP SELLING PRODUCTS</h1>
            <Boxs/>
